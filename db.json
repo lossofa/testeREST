@@ -1,8 +1,6 @@
 {
    "clients" : [
    {"ClientId":1,"ClientName":"Fabiano","ClientAge":21,"ClientTelephone":"999573652","ClientPhotoPath":"/storage/emulated/0/Cadastro_Clientes_Fabiano/Fotos/Fabiano.jpg"},
-   {"ClientId":2,"ClientName":"Murilo","ClientAge":22,"ClientTelephone":"999724546","ClientPhotoPath":"/storage/emulated/0/Cadastro_Clientes_Fabiano/Fotos/Murilo.jpg"},
-   {"ClientId":99,"ClientName":"TestREST","ClientAge":1,"ClientTelephone":"111111111","ClientPhotoPath":""},
-   {"ClientId":10,"ClientName":"Teste2","ClientAge":2,"ClientTelephone":"2222222","ClientPhotoPath":""}   
+   {"ClientId":2,"ClientName":"Murilo","ClientAge":22,"ClientTelephone":"999724546","ClientPhotoPath":"/storage/emulated/0/Cadastro_Clientes_Fabiano/Fotos/Murilo.jpg"}, 
    ]
 }
